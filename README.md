@@ -1,6 +1,8 @@
-# stm32-i2c-demo
-Demo project: Reading I2C sensor using STM32 HAL and printing data on UART
+# STM32 I2C Demo 🚀
+![status](https://img.shields.io/badge/status-demo-green)
+![platform](https://img.shields.io/badge/platform-STM32-blue)
 
+Demo project: Reading I2C sensor using STM32 HAL and printing data on UART
 
 # STM32 I2C Demo
 
@@ -30,3 +32,8 @@ Humidity: 56%
 2. Open project in **STM32CubeIDE**  
 3. Build & flash to STM32 board  
 4. Connect UART @9600 baud to see sensor data  
+
+### Repository Structure
+- src/ → Source code  
+- media/ → Screenshots, logs  
+- README.md → Project details  
