@@ -1,6 +1,8 @@
 # STM32 I2C Demo 🚀
 ![status](https://img.shields.io/badge/status-demo-green)
 ![platform](https://img.shields.io/badge/platform-STM32-blue)
+![status](https://img.shields.io/badge/status-demo-green)
+
 
 Demo project: Reading I2C sensor using STM32 HAL and printing data on UART
 
