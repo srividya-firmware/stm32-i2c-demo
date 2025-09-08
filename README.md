@@ -27,7 +27,7 @@ Humidity: 56%
 ### How to Run
 1. Clone this repository  
    ```bash
-   git clone https://github.com/<mee-username>/stm32-i2c-demo.git
+   git clone https://github.com/srividya-firmware/stm32-i2c-demo.git
    ```
 2. Open project in **STM32CubeIDE**  
 3. Build & flash to STM32 board  
